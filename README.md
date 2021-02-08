@@ -4,6 +4,6 @@
 
 Simple game created during Udemy coures: The Complete JavaScript Course 2021: From Zero to Expert!
 
-##Live view
+## Live view
 
 https://evescolded.github.io/Guess-my-number-PWA/
