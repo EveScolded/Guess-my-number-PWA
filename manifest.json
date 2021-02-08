@@ -1,12 +1,12 @@
 {
-  "name": "WTF: PWA",
-  "short_name": "WTF: PWA",
-  "theme_color": "#2D2241",
-  "background_color": "#2D2241",
+  "name": "PWA: Guess-my-number",
+  "short_name": "PWA: Guess-my-number",
+  "theme_color": "#222",
+  "background_color": "#222",
   "display": "standalone",
   "orientation": "portrait",
-  "scope": "/wtf-webpack-starter/",
-  "start_url": "/wtf-webpack-starter/",
+  "scope": "/Guess-my-number-PWA/",
+  "start_url": "/Guess-my-number-PWA/",
   "icons": [
     {
       "src": "pwa/manifest-icon-192.png",
